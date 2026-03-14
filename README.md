@@ -24,3 +24,13 @@ This repository is the **living log of our Python course**. Each week you’ll f
 - Materials: [`WeekTwo/`](./WeekTwo)
 
 ---
+
+✅ **Week 3 For & While Cycles**
+- Materials: [`WeekThree`](./WeekThree)
+
+---
+
+✅ **Week 4 Data Structures: list, tuple, dict, set**
+- Materials: [`WeekFour/`](./WeekFour)
+
+---
